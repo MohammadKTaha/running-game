@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: ab35ab04155bf4a5e84489e50ec96cea
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: TODOS:PostesElectricos:bichitoelectrico1:pCylinder7
+    100004: TODOS:PostesElectricos:group10
+    100006: TODOS:PostesElectricos:group11
+    100008: TODOS:PostesElectricos:group2
+    100010: TODOS:PostesElectricos:group2 1
+    100012: TODOS:PostesElectricos:group3
+    100014: TODOS:PostesElectricos:group3 1
+    100016: TODOS:PostesElectricos:group4
+    100018: TODOS:PostesElectricos:group4 1
+    100020: TODOS:PostesElectricos:group5
+    100022: TODOS:PostesElectricos:group5 1
+    100024: TODOS:PostesElectricos:group6
+    100026: TODOS:PostesElectricos:group6 1
+    100028: TODOS:PostesElectricos:group7
+    100030: TODOS:PostesElectricos:group7 1
+    100032: TODOS:PostesElectricos:group8
+    100034: TODOS:PostesElectricos:group8 1
+    100036: TODOS:PostesElectricos:group9
+    100038: TODOS:PostesElectricos:group9 1
+    100040: TODOS:PostesElectricos:pCube4
+    100042: TODOS:PostesElectricos:pCube4 1
+    100044: TODOS:PostesElectricos:pCube5
+    100046: TODOS:PostesElectricos:pCube5 1
+    100048: TODOS:PostesElectricos:pCube6
+    100050: TODOS:PostesElectricos:pCube6 1
+    100052: TODOS:PostesElectricos:pCube7
+    100054: TODOS:PostesElectricos:pCube7 1
+    100056: TODOS:PostesElectricos:pCube8
+    100058: TODOS:PostesElectricos:pCube8 1
+    100060: TODOS:PostesElectricos:pCube9
+    100062: TODOS:PostesElectricos:pCube9 1
+    100064: TODOS:PostesElectricos:pCylinder4
+    100066: TODOS:PostesElectricos:pCylinder6
+    100068: TODOS:PostesElectricos:pCylinder7
+    100070: TODOS:PostesElectricos:pCylinder7 1
+    100072: TODOS:PostesElectricos:pCylinder8
+    100074: TODOS:PostesElectricos:pCylinder8 1
+    100076: TODOS:PostesElectricos:pCylinder8 2
+    100078: TODOS:PostesElectricos:pCylinder9
+    100080: TODOS:PostesElectricos:pCylinder9 1
+    100082: TODOS:PostesElectricos:polySurface1
+    100084: TODOS:PostesElectricos:polySurface1 1
+    100086: TODOS:PostesElectricos:polySurface2
+    100088: TODOS:PostesElectricos:polySurface2 1
+    100090: TODOS:PostesElectricos:polySurface3
+    100092: TODOS:PostesElectricos:polySurface3 1
+    100094: TODOS:PostesElectricos:polySurface4
+    100096: TODOS:PostesElectricos:polySurface4 1
+    100098: TODOS:PostesElectricos:polySurface5
+    100100: TODOS:PostesElectricos:polySurface5 1
+    400000: //RootNode
+    400002: TODOS:PostesElectricos:bichitoelectrico1:pCylinder7
+    400004: TODOS:PostesElectricos:group10
+    400006: TODOS:PostesElectricos:group11
+    400008: TODOS:PostesElectricos:group2
+    400010: TODOS:PostesElectricos:group2 1
+    400012: TODOS:PostesElectricos:group3
+    400014: TODOS:PostesElectricos:group3 1
+    400016: TODOS:PostesElectricos:group4
+    400018: TODOS:PostesElectricos:group4 1
+    400020: TODOS:PostesElectricos:group5
+    400022: TODOS:PostesElectricos:group5 1
+    400024: TODOS:PostesElectricos:group6
+    400026: TODOS:PostesElectricos:group6 1
+    400028: TODOS:PostesElectricos:group7
+    400030: TODOS:PostesElectricos:group7 1
+    400032: TODOS:PostesElectricos:group8
+    400034: TODOS:PostesElectricos:group8 1
+    400036: TODOS:PostesElectricos:group9
+    400038: TODOS:PostesElectricos:group9 1
+    400040: TODOS:PostesElectricos:pCube4
+    400042: TODOS:PostesElectricos:pCube4 1
+    400044: TODOS:PostesElectricos:pCube5
+    400046: TODOS:PostesElectricos:pCube5 1
+    400048: TODOS:PostesElectricos:pCube6
+    400050: TODOS:PostesElectricos:pCube6 1
+    400052: TODOS:PostesElectricos:pCube7
+    400054: TODOS:PostesElectricos:pCube7 1
+    400056: TODOS:PostesElectricos:pCube8
+    400058: TODOS:PostesElectricos:pCube8 1
+    400060: TODOS:PostesElectricos:pCube9
+    400062: TODOS:PostesElectricos:pCube9 1
+    400064: TODOS:PostesElectricos:pCylinder4
+    400066: TODOS:PostesElectricos:pCylinder6
+    400068: TODOS:PostesElectricos:pCylinder7
+    400070: TODOS:PostesElectricos:pCylinder7 1
+    400072: TODOS:PostesElectricos:pCylinder8
+    400074: TODOS:PostesElectricos:pCylinder8 1
+    400076: TODOS:PostesElectricos:pCylinder8 2
+    400078: TODOS:PostesElectricos:pCylinder9
+    400080: TODOS:PostesElectricos:pCylinder9 1
+    400082: TODOS:PostesElectricos:polySurface1
+    400084: TODOS:PostesElectricos:polySurface1 1
+    400086: TODOS:PostesElectricos:polySurface2
+    400088: TODOS:PostesElectricos:polySurface2 1
+    400090: TODOS:PostesElectricos:polySurface3
+    400092: TODOS:PostesElectricos:polySurface3 1
+    400094: TODOS:PostesElectricos:polySurface4
+    400096: TODOS:PostesElectricos:polySurface4 1
+    400098: TODOS:PostesElectricos:polySurface5
+    400100: TODOS:PostesElectricos:polySurface5 1
+    2300000: TODOS:PostesElectricos:bichitoelectrico1:pCylinder7
+    2300002: TODOS:PostesElectricos:pCube4
+    2300004: TODOS:PostesElectricos:pCube4 1
+    2300006: TODOS:PostesElectricos:pCube5
+    2300008: TODOS:PostesElectricos:pCube5 1
+    2300010: TODOS:PostesElectricos:pCube6
+    2300012: TODOS:PostesElectricos:pCube6 1
+    2300014: TODOS:PostesElectricos:pCube7
+    2300016: TODOS:PostesElectricos:pCube7 1
+    2300018: TODOS:PostesElectricos:pCube8
+    2300020: TODOS:PostesElectricos:pCube8 1
+    2300022: TODOS:PostesElectricos:pCube9
+    2300024: TODOS:PostesElectricos:pCube9 1
+    2300026: TODOS:PostesElectricos:pCylinder4
+    2300028: TODOS:PostesElectricos:pCylinder6
+    2300030: TODOS:PostesElectricos:pCylinder7
+    2300032: TODOS:PostesElectricos:pCylinder7 1
+    2300034: TODOS:PostesElectricos:pCylinder8
+    2300036: TODOS:PostesElectricos:pCylinder8 1
+    2300038: TODOS:PostesElectricos:pCylinder8 2
+    2300040: TODOS:PostesElectricos:pCylinder9
+    2300042: TODOS:PostesElectricos:pCylinder9 1
+    2300044: TODOS:PostesElectricos:polySurface1
+    2300046: TODOS:PostesElectricos:polySurface1 1
+    2300048: TODOS:PostesElectricos:polySurface2
+    2300050: TODOS:PostesElectricos:polySurface2 1
+    2300052: TODOS:PostesElectricos:polySurface3
+    2300054: TODOS:PostesElectricos:polySurface3 1
+    2300056: TODOS:PostesElectricos:polySurface4
+    2300058: TODOS:PostesElectricos:polySurface4 1
+    2300060: TODOS:PostesElectricos:polySurface5
+    2300062: TODOS:PostesElectricos:polySurface5 1
+    3300000: TODOS:PostesElectricos:bichitoelectrico1:pCylinder7
+    3300002: TODOS:PostesElectricos:pCube4
+    3300004: TODOS:PostesElectricos:pCube4 1
+    3300006: TODOS:PostesElectricos:pCube5
+    3300008: TODOS:PostesElectricos:pCube5 1
+    3300010: TODOS:PostesElectricos:pCube6
+    3300012: TODOS:PostesElectricos:pCube6 1
+    3300014: TODOS:PostesElectricos:pCube7
+    3300016: TODOS:PostesElectricos:pCube7 1
+    3300018: TODOS:PostesElectricos:pCube8
+    3300020: TODOS:PostesElectricos:pCube8 1
+    3300022: TODOS:PostesElectricos:pCube9
+    3300024: TODOS:PostesElectricos:pCube9 1
+    3300026: TODOS:PostesElectricos:pCylinder4
+    3300028: TODOS:PostesElectricos:pCylinder6
+    3300030: TODOS:PostesElectricos:pCylinder7
+    3300032: TODOS:PostesElectricos:pCylinder7 1
+    3300034: TODOS:PostesElectricos:pCylinder8
+    3300036: TODOS:PostesElectricos:pCylinder8 1
+    3300038: TODOS:PostesElectricos:pCylinder8 2
+    3300040: TODOS:PostesElectricos:pCylinder9
+    3300042: TODOS:PostesElectricos:pCylinder9 1
+    3300044: TODOS:PostesElectricos:polySurface1
+    3300046: TODOS:PostesElectricos:polySurface1 1
+    3300048: TODOS:PostesElectricos:polySurface2
+    3300050: TODOS:PostesElectricos:polySurface2 1
+    3300052: TODOS:PostesElectricos:polySurface3
+    3300054: TODOS:PostesElectricos:polySurface3 1
+    3300056: TODOS:PostesElectricos:polySurface4
+    3300058: TODOS:PostesElectricos:polySurface4 1
+    3300060: TODOS:PostesElectricos:polySurface5
+    3300062: TODOS:PostesElectricos:polySurface5 1
+    4300000: TODOS:PostesElectricos:pCylinder4
+    4300002: TODOS:PostesElectricos:pCylinder6
+    4300004: TODOS:PostesElectricos:bichitoelectrico1:pCylinder7
+    4300006: TODOS:PostesElectricos:pCylinder7
+    4300008: TODOS:PostesElectricos:polySurface2
+    4300010: TODOS:PostesElectricos:pCube5
+    4300012: TODOS:PostesElectricos:pCube4
+    4300014: TODOS:PostesElectricos:polySurface3
+    4300016: TODOS:PostesElectricos:pCube7
+    4300018: TODOS:PostesElectricos:pCube6
+    4300020: TODOS:PostesElectricos:pCylinder8
+    4300022: TODOS:PostesElectricos:pCylinder9
+    4300024: TODOS:PostesElectricos:polySurface4
+    4300026: TODOS:PostesElectricos:pCube9
+    4300028: TODOS:PostesElectricos:pCube8
+    4300030: TODOS:PostesElectricos:polySurface1
+    4300032: TODOS:PostesElectricos:polySurface5
+    4300034: TODOS:PostesElectricos:pCylinder7
+    4300036: TODOS:PostesElectricos:pCylinder8
+    4300038: TODOS:PostesElectricos:polySurface2
+    4300040: TODOS:PostesElectricos:pCube5
+    4300042: TODOS:PostesElectricos:pCube4
+    4300044: TODOS:PostesElectricos:polySurface3
+    4300046: TODOS:PostesElectricos:pCube7
+    4300048: TODOS:PostesElectricos:pCube6
+    4300050: TODOS:PostesElectricos:pCylinder8
+    4300052: TODOS:PostesElectricos:pCylinder9
+    4300054: TODOS:PostesElectricos:polySurface4
+    4300056: TODOS:PostesElectricos:pCube9
+    4300058: TODOS:PostesElectricos:pCube8
+    4300060: TODOS:PostesElectricos:polySurface1
+    4300062: TODOS:PostesElectricos:polySurface5
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

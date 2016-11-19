@@ -1,0 +1,13 @@
+﻿Upgrade 1 (Cartoon City Pack 1.2)
+
+
+Added the Following items:
+
+
+* Police Station
+* Fire Station
+* Pharmacy
+* Super Market
+* Shop
+* Burger Place
+* Bridge

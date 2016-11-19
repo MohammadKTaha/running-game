@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: 25fcf5d430959d94da5887d3eeb4adad
+timeCreated: 1479241066
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - street0: {fileID: 1000012440084976, guid: 10fefd0015fd4b34f93427518e04524f, type: 2}
+  - street1: {fileID: 1000010624833160, guid: 01e8f858df000c6418715300db1630c5, type: 2}
+  - street2: {fileID: 1000012099790314, guid: a47e7dc3df0f65a4c860a755dcb8aa63, type: 2}
+  - street3: {fileID: 1000011395139214, guid: 309199958eaabcd4690e765fd2f03d77, type: 2}
+  - street4: {fileID: 1000011744324750, guid: 1ad474923455db14aa52305be59d89f0, type: 2}
+  - street: {instanceID: 0}
+  - coin: {fileID: 1000012245075814, guid: 6e3060811244463428a193016a6ddfbe, type: 2}
+  - roadBlocker: {instanceID: 0}
+  - cone: {fileID: 1000012355671470, guid: a0b8d41030513b144aa8664d728e2087, type: 2}
+  - garbageContainer: {fileID: 1000013320866682, guid: cd811d0d61f78d048b2243299f6c8126,
+      type: 2}
+  - trashCan: {fileID: 1000011676944208, guid: a36ac544aabb9e24d98e4913bcbb644b, type: 2}
+  - redCar: {fileID: 1000012964480270, guid: 68a861ae53373e543976067b2996b884, type: 2}
+  - taxi: {fileID: 1000010365481598, guid: 1f901e76a33ce144e9f9182ca5efe847, type: 2}
+  - yellowCar: {fileID: 1000013544285956, guid: cb0616eeb793cb041b85b5c6235ebf83,
+      type: 2}
+  - transportVehicle: {fileID: 1000013439703550, guid: a5c38dc24d311064f9ddb477110a599f,
+      type: 2}
+  - boxCar: {fileID: 1000012859458398, guid: 1388e32e64a7a6842820132419516b75, type: 2}
+  - bus: {fileID: 1000011106609148, guid: 6bb44984f744fb64f89ae8773cc8e220, type: 2}
+  - baloon: {fileID: 1000010243856184, guid: 5852db5389ca3a4419263eea07bf0d20, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
