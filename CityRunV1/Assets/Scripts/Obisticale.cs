@@ -2,9 +2,8 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace AssemblyCSharp
-{
-	public class Obisticale
+
+public class Obisticale  : MonoBehaviour
 	{
 		private GameObject obisticale;
 		private string name;
@@ -84,6 +83,5 @@ namespace AssemblyCSharp
 			zDimintion = this.obisticale.transform.localScale.z;
 		}
 
-	}
 }
 

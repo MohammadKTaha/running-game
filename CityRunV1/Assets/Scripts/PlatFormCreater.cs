@@ -20,13 +20,18 @@ public class PlatFormCreater : MonoBehaviour {
 	public GameObject trashCan;
 
 	//vehicles
-	public GameObject redCar;
-	public GameObject taxi;
-	public GameObject yellowCar;
-	public GameObject transportVehicle;
-	public GameObject boxCar;
-	public GameObject bus;
-	public GameObject baloon;
+	public GameObject fireTruck;
+	public GameObject greenCar;
+	public GameObject OrangeCar;
+	public GameObject schoolBus;
+	public GameObject policeCar;
+	public GameObject greenTaxi;
+	public GameObject orangeTaxi;
+	public GameObject yellowTaxi;
+	public GameObject truck;
+	public GameObject blackCar;
+	public GameObject detectiveCar;
+	public GameObject twoFloorsBus;
 	// Use this for initialization
 
 	Dictionary<int, GameObject> latestTheeObesticals;// the newest one is number 2 the older is number 1 the oldest is 0
@@ -210,37 +215,37 @@ public class PlatFormCreater : MonoBehaviour {
 			switch(vehicleType){
 
 				case(0):
-					return bus;
+					return null;
 				break;
 
 				case(1):
-					return transportVehicle;
+				return null;
 				break;
 
 				case(2):
-					return taxi;
+				return null;
 				break;
 
 				case(3):
-					return boxCar;
+				return null;
 				break;
 
 				case(4):
-					return yellowCar;
+				return null;
 				break;
 
 				case(5):
-					return redCar;
+				return null;
 				break;
 
 				default:
-					return bus;
+				return null;
 				break;
 
 			}
 			
 			}else{//TODO
-			return bus;
+			return null;
 			}
 			
 
